@@ -4,9 +4,7 @@ Proje açıklaması buraya gelecek. Projenin amacı, fonksiyonları, nasıl çal
 
 ## Video Tanıtımı
 
-Aşağıdaki video, projenin nasıl çalıştığını gösteriyor:
-
-![Proje Video](assets/movieHubVideo.mp4)
+[Proje Tanıtım Videosu](https://youtube.com/shorts/eQ_lmyHmu1k?feature=share)
 
 ## Başlangıç
 
