@@ -2,6 +2,12 @@
 
 Proje açıklaması buraya gelecek. Projenin amacı, fonksiyonları, nasıl çalıştığı gibi temel bilgiler.
 
+## Video Tanıtımı
+
+Aşağıdaki video, projenin nasıl çalıştığını gösteriyor:
+
+![Proje Video](assets/movieHubVideo.mp4)
+
 ## Başlangıç
 
 Bu kılavuz, projeyi kendi bilgisayarınızda çalıştırabilmeniz için gerekli adımları içerir.
