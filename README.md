@@ -30,15 +30,15 @@ Bu kılavuz, projeyi kendi bilgisayarınızda çalıştırabilmeniz için gerekl
 
 1. Bu projeyi bilgisayarınıza klonlayın:
    git clone https://github.com/kullaniciAdi/moviehubapp2.git
-2. Proje dizinine gidin
+2. Proje dizinine gidin:
    cd moviehubapp2
 3. Bağımlılıkları yükleyin:
    npm install
 4. Geliştirme sunucusunu başlatın:
    npm start
-5.Android cihazınızı veya emülatörünüzü bağlayın. Aşağıdaki komutla uygulamayı başlatın:
+5. Android cihazınızı veya emülatörünüzü bağlayın. Aşağıdaki komutla uygulamayı başlatın:
    npx react-native run-android
-6.Yada Xcode'u açın ve iOS uygulamasını başlatın:
+6. Yada Xcode'u açın ve iOS uygulamasını başlatın:
    npx react-native run-ios
 
 
